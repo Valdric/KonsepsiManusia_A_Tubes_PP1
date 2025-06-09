@@ -1,4 +1,4 @@
-# Hp Management System
+# Sistem Manajemen Perdagangan Hp
 
 Sebuah aplikasi sederhana untuk mencatat dan mengelola HP menggunakan Java dan struktur data Queue.
 
